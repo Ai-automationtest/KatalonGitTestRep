@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KBC cssk2t1 login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9e09cef-3109-4672-beb1-3429df5e7b15</testCaseGuid>
+   <variable>
+      <defaultValue>'john'</defaultValue>
+      <description></description>
+      <id>91ef062e-323d-43fb-a7c8-0f8b33aef2c6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ai123456js'</defaultValue>
+      <description></description>
+      <id>a7bc5a15-c06e-4621-9527-6fe5b50adbe5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>583b1efa-a35c-4012-aeed-6debbae17828</id>
+      <masked>false</masked>
+      <name>txtprsnt</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>7505ad22-14b2-4aa8-8718-7807aa9dfe39</id>
+      <masked>false</masked>
+      <name>certerrprsnt</name>
+   </variable>
+</TestCaseEntity>
