@@ -24,7 +24,7 @@
       <description></description>
       <id>5513887e-79e6-4629-a7cd-1c57db87e8ea</id>
       <masked>false</masked>
-      <name>txtprsnt</name>
+      <name>txtprsn</name>
    </variable>
    <variable>
       <defaultValue>true</defaultValue>
